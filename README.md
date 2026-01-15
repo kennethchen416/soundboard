@@ -108,11 +108,3 @@ This repo provides a small app with pages for listing content, creating posts, v
 1. Fork and create a branch.
 2. Install dependencies and run the dev server locally.
 3. Open a PR with a clear description of changes.
-
----
-
-If you'd like, I can also:
-- remove or replace any `lovable`-specific dependencies (I noticed a `lovable-tagger` devDependency),
-- or convert `src/integrations/supabase/client.ts` to read from environment variables and document the `.env` layout.
-
-Let me know which follow-up you'd like next.
