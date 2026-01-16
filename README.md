@@ -1,6 +1,6 @@
 # soundboard
 
-A small React + TypeScript app (Vite) that provides audio recording, playback, and simple post views. This README removes previous third-party branding and describes how the code is organized and how the app works.
+A small React + TypeScript app (Vite) that provides audio recording, playback, and simple post views. 
 
 ## Quick start
 
